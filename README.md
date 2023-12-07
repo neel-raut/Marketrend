@@ -1,1 +1,1 @@
-# tradingmodel
+# Algo Trading Model
