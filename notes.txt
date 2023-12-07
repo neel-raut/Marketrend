@@ -1,0 +1,1 @@
+some features (eg the economic indicators, are on a different frequency scale than daily pricing info - usually monthly. possible solutions are likely time disaggregation or kalman filter?)
