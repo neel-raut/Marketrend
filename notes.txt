@@ -1,9 +1,0 @@
--some features (eg the economic indicators, are on a different frequency scale than daily pricing info - usually monthly. possible solutions are likely time disaggregation or kalman filter?)
-
--downloaded a csv, but there's other python libraries that can do that for you anyway
-
--https://pypi.org/project/talipp/ for techincal indicator calculation, likely to also be used as features.
-
--features may not be some number themselves but the trend of the feature (derivative)
-
--can also aggregate other features, like in ex4. For example, (totally made up) when both interest rates are falling and unemployment is falling, prices are likely to increase. In such a case, the feature would be (n1 * n2) ie they are the same sign.
